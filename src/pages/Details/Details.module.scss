@@ -1,0 +1,23 @@
+.Details__wrapper {
+  max-width: 1044px;
+  margin: 0 auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.Details__link {
+  color: black;
+  margin-left: 8px;
+  margin-bottom: 10px;
+
+  &:hover {
+    color: #fbd319;
+  }
+}
+
+.Details__containerForContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}

@@ -1,0 +1,21 @@
+.Universe__wrapper {
+  width: 1044px;
+  margin: 0 auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  height: 100%;
+}
+
+.Universe__nav {
+  display: flex;
+}
+
+.Universe__link {
+  margin-right: 30px;
+}
+
+.Universe__linkActive {
+  margin-right: 30px;
+  color: #fbd319;
+  border-bottom: 1px solid #fbd319;
+}

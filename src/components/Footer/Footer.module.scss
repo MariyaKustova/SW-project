@@ -1,0 +1,31 @@
+.Footer {
+  margin-top: auto; 
+  background-color: #2a2a2a;  
+}
+
+.Footer__wrapper {
+  max-width: 1044px;
+  margin: 0 auto;
+  padding-top: 48px;   
+  padding-bottom: 68px;
+  border-top: 2px solid #fbd319;
+}
+
+.Footer__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Footer__text {
+  font-size: 13px;
+}
+
+.Footer__link {
+  color: white;
+  font-size: 13px;
+  text-decoration: none;
+
+  &:hover {
+    color: #fbd319;
+  }
+}

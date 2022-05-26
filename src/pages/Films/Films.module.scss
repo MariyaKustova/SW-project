@@ -1,0 +1,28 @@
+.Films__wrapper {
+  max-width: 1044px;
+  margin: 0 auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.Films__container {
+  display: flex;  
+}
+
+.Films__nav {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 50px;
+  flex-grow: 0;
+  min-width: 350px;
+  margin-right: 50px;
+}
+
+.Films__item {
+  margin-bottom: 10px;
+}
+
+.Films__linkActive {
+  color: #fbd319;
+  border-bottom: 1px solid #fbd319;
+}
